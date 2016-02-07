@@ -5,4 +5,14 @@ Det er ikke nemt at være konkurrencedygtig i en branche, hvor alle tror, de kan
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdMlk6AYhmY" frameborder="0" allowfullscreen></iframe>
 <br>
+<div itemscope itemtype="http://schema.org/LocalBusiness">
+  <h1><span itemprop="name">Malerfirmaet Staubo</span></h1>
+  <h5><span itemprop="description"> Malerfirmaet Staubo ApS er drevet og ejet af malermester Christian Staubo Hansen og ligger i Øster Farimagsgade på Østerbro.</span></h5>
+</br></br>
+  <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+   <p><span itemprop="streetAddress">Øster Farimagsgade 16 B</span><br>
+    <span itemprop="addressLocality">2100 København Ø</span>,</p>
+  </div>
+  Telefon: <span itemprop="telephone">28 30 78 50</span>
+</div>
 http://www.malerstaubo.dk
